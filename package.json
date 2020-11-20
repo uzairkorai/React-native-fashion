@@ -23,7 +23,8 @@
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.4.tar.gz",
     "react-native-gesture-handler": "~1.7.0",
-    "react-native-reanimated": "~1.13.0",
+    "react-native-reanimated": "^1.13.2",
+    "react-native-redash": "^15.11.1",
     "react-native-safe-area-context": "3.1.4",
     "react-native-screens": "~2.10.1",
     "react-native-web": "~0.13.12"
@@ -33,8 +34,6 @@
     "@types/react": "~16.9.35",
     "@types/react-dom": "~16.9.8",
     "@types/react-native": "~0.63.2",
-    "eslint": "^7.13.0",
-    "eslint-config-react-native-wcandillon": "^3.3.4",
     "typescript": "~3.9.5"
   },
   "private": true
